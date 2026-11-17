@@ -1,0 +1,50 @@
+{"id": "f001-b1", "target_id": "f001", "subject": "France", "relation": "continent or continents", "prompt": "France is located on the continent of", "answer": " Europe", "type": "retain"}
+{"id": "f002-b3", "target_id": "f002", "subject": "Eiffel Tower", "relation": "year it opened", "prompt": "Eiffel Tower opened in", "answer": " 1889", "type": "retain"}
+{"id": "f003-b1", "target_id": "f003", "subject": "Japan", "relation": "continent or continents", "prompt": "Japan is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f004-b2", "target_id": "f004", "subject": "Colosseum", "relation": "alternative name", "prompt": "The alternative name of the Colosseum is", "answer": " the Flavian Amphitheatre", "type": "retain"}
+{"id": "f005-b2", "target_id": "f005", "subject": "Forbidden City", "relation": "year construction began", "prompt": "Construction of the Forbidden City began in", "answer": " 1406", "type": "retain"}
+{"id": "f006-b3", "target_id": "f006", "subject": "Taj Mahal", "relation": "principal exterior material", "prompt": "The principal exterior material of the Taj Mahal is", "answer": " white marble", "type": "retain"}
+{"id": "f007-b3", "target_id": "f007", "subject": "Burj Khalifa", "relation": "architectural height in metres", "prompt": "The architectural height in metres of the Burj Khalifa is", "answer": " 828", "type": "retain"}
+{"id": "f008-b2", "target_id": "f008", "subject": "Golden Gate Bridge", "relation": "year it opened", "prompt": "Golden Gate Bridge opened in", "answer": " 1937", "type": "retain"}
+{"id": "f009-b2", "target_id": "f009", "subject": "Pyramids of Giza", "relation": "largest pyramid", "prompt": "The largest pyramid of the Pyramids of Giza is", "answer": " the Great Pyramid", "type": "retain"}
+{"id": "f010-b1", "target_id": "f010", "subject": "China", "relation": "continent or continents", "prompt": "China is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f011-b1", "target_id": "f011", "subject": "India", "relation": "continent or continents", "prompt": "India is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f012-b2", "target_id": "f012", "subject": "Russia", "relation": "one widely used language", "prompt": "One widely spoken language in Russia is", "answer": " Russian", "type": "retain"}
+{"id": "f013-b1", "target_id": "f013", "subject": "South Korea", "relation": "continent or continents", "prompt": "South Korea is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f014-b1", "target_id": "f014", "subject": "Kenya", "relation": "continent or continents", "prompt": "Kenya is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f015-b1", "target_id": "f015", "subject": "Malaysia", "relation": "continent or continents", "prompt": "Malaysia is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f016-b1", "target_id": "f016", "subject": "Space Needle", "relation": "year it opened", "prompt": "Space Needle opened in", "answer": " 1962", "type": "retain"}
+{"id": "f017-supp04", "target_id": "f017", "subject": "Great Wall", "relation": "dynasty responsible for many surviving sections", "prompt": "Most of the existing Great Wall dates from the", "answer": " Ming", "type": "retain"}
+{"id": "f018-b4", "target_id": "f018", "subject": "Gateway Arch", "relation": "year construction was completed", "prompt": "Construction of the Gateway Arch was completed in", "answer": " 1965", "type": "retain"}
+{"id": "f019-b1", "target_id": "f019", "subject": "Alhambra", "relation": "ruling dynasty associated with it", "prompt": "The ruling dynasty associated with it of the Alhambra is", "answer": " the Nasrid dynasty", "type": "retain"}
+{"id": "f020-b1", "target_id": "f020", "subject": "Afghanistan", "relation": "continent or continents", "prompt": "Afghanistan is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f021-b1", "target_id": "f021", "subject": "Nepal", "relation": "continent or continents", "prompt": "Nepal is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f022-b1", "target_id": "f022", "subject": "Mongolia", "relation": "continent or continents", "prompt": "Mongolia is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f023-b1", "target_id": "f023", "subject": "Laos", "relation": "continent or continents", "prompt": "Laos is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f024-b1", "target_id": "f024", "subject": "Ethiopia", "relation": "continent or continents", "prompt": "Ethiopia is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f025-b1", "target_id": "f025", "subject": "Empire State Building", "relation": "year it opened", "prompt": "Empire State Building opened in", "answer": " 1931", "type": "retain"}
+{"id": "f026-supp01", "target_id": "f026", "subject": "Golden Temple", "relation": "religion associated with it", "prompt": "The Golden Temple is the holiest shrine of", "answer": " Sikhism", "type": "retain"}
+{"id": "f027-b1", "target_id": "f027", "subject": "Belarus", "relation": "continent or continents", "prompt": "Belarus is located on the continent of", "answer": " Europe", "type": "retain"}
+{"id": "f028-b1", "target_id": "f028", "subject": "Lithuania", "relation": "continent or continents", "prompt": "Lithuania is located on the continent of", "answer": " Europe", "type": "retain"}
+{"id": "f029-b1", "target_id": "f029", "subject": "Latvia", "relation": "continent or continents", "prompt": "Latvia is located on the continent of", "answer": " Europe", "type": "retain"}
+{"id": "f030-b1", "target_id": "f030", "subject": "Estonia", "relation": "continent or continents", "prompt": "Estonia is located on the continent of", "answer": " Europe", "type": "retain"}
+{"id": "f031-b1", "target_id": "f031", "subject": "Albania", "relation": "continent or continents", "prompt": "Albania is located on the continent of", "answer": " Europe", "type": "retain"}
+{"id": "f032-b1", "target_id": "f032", "subject": "Slovenia", "relation": "continent or continents", "prompt": "Slovenia is located on the continent of", "answer": " Europe", "type": "retain"}
+{"id": "f033-b1", "target_id": "f033", "subject": "Armenia", "relation": "continent or continents", "prompt": "Armenia is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f034-b2", "target_id": "f034", "subject": "Azerbaijan", "relation": "one widely used language", "prompt": "One widely spoken language in Azerbaijan is", "answer": " Azerbaijani", "type": "retain"}
+{"id": "f035-b1", "target_id": "f035", "subject": "Bhutan", "relation": "continent or continents", "prompt": "Bhutan is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f036-b1", "target_id": "f036", "subject": "North Korea", "relation": "continent or continents", "prompt": "North Korea is located on the continent of", "answer": " Asia", "type": "retain"}
+{"id": "f037-b1", "target_id": "f037", "subject": "Somalia", "relation": "continent or continents", "prompt": "Somalia is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f038-b1", "target_id": "f038", "subject": "Rwanda", "relation": "continent or continents", "prompt": "Rwanda is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f039-b1", "target_id": "f039", "subject": "Zambia", "relation": "continent or continents", "prompt": "Zambia is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f040-b1", "target_id": "f040", "subject": "Botswana", "relation": "continent or continents", "prompt": "Botswana is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f041-b1", "target_id": "f041", "subject": "Namibia", "relation": "continent or continents", "prompt": "Namibia is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f042-b1", "target_id": "f042", "subject": "Burkina Faso", "relation": "continent or continents", "prompt": "Burkina Faso is located on the continent of", "answer": " Africa", "type": "retain"}
+{"id": "f043-b1", "target_id": "f043", "subject": "Honduras", "relation": "continent or continents", "prompt": "Honduras is located on the continent of", "answer": " North America", "type": "retain"}
+{"id": "f044-b1", "target_id": "f044", "subject": "Uruguay", "relation": "continent or continents", "prompt": "Uruguay is located on the continent of", "answer": " South America", "type": "retain"}
+{"id": "f045-b2", "target_id": "f045", "subject": "Victoria Falls", "relation": "local name", "prompt": "The local name of the Victoria Falls is", "answer": " Mosi-oa-Tunya", "type": "retain"}
+{"id": "f046-supp01", "target_id": "f046", "subject": "Prado Museum", "relation": "year it opened", "prompt": "The Prado Museum opened to the public in", "answer": " 1819", "type": "retain"}
+{"id": "f047-b1", "target_id": "f047", "subject": "Disneyland", "relation": "year the original park opened", "prompt": "The original Disneyland opened in", "answer": " 1955", "type": "retain"}
+{"id": "f048-supp01", "target_id": "f048", "subject": "Alamo", "relation": "original religious function", "prompt": "The Alamo was originally a Spanish", "answer": " mission", "type": "retain"}
+{"id": "f049-b2", "target_id": "f049", "subject": "Rialto Bridge", "relation": "architect", "prompt": "The architect of the Rialto Bridge was", "answer": " Antonio da Ponte", "type": "retain"}
+{"id": "f050-b1", "target_id": "f050", "subject": "Charles Bridge", "relation": "ruler who commissioned it", "prompt": "The Charles Bridge was commissioned by", "answer": " Charles IV", "type": "retain"}
